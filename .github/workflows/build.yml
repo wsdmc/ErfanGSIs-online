@@ -13,7 +13,7 @@ on:
 
     
 env:
-  ROM_URL: https://do6prasq.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/m2391/10.0.2.0/demo/20230329190409/969555af/update.zip?xyip=112.65.29.39&xyct=158&xy_nosvr=true&xy_usource=download-xys.meizu.com&xy_rid=*1Oz19wi*Tq2R4&xy_oid=43158&xy_nc=2NvfI1==
+  ROM_URL: https://218-60-174-249.d.cjjd15.com:30443/download-cdn.123pan.cn/123-104/af52cff0/1812435082-0/af52cff0f4b1b6c3a57990b2ce786468/c-m5?v=5&t=1687425204&s=1687425204ef88b76f0df53d3695b66a6259e8e562&r=YHU05Q&filename=Raphael_OriginOS3.0_PD2141_8.14.0_release5.1.5.7z&x-mf-biz-cid=743d83aa-7fcf-489b-a97d-b52dc667d877-584000&auto_redirect=0&xmfcid=6076f8b5-8d0f-46b7-85cb-304c396f8e7e-0-50111d3b1
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
